@@ -1,0 +1,7 @@
+For documenation please open following URL
+https://thenextlinestudio.gitbook.io/nexthour-payment-gateway-add-on/
+
+
+
+For Devloper Guide please open following URL
+https://thenextlinestudio.gitbook.io/nexthour-payment-gateway-add-on/developer-guide/developer-guide
